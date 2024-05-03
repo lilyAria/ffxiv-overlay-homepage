@@ -34,18 +34,19 @@ const toggleView = () => {
 
 <style lang="scss">
 .app {
-  border-radius: 8px;
   height: 100%;
   display: flex;
+  border-radius: 8px;
   box-sizing: border-box;
 
   .ly-homepage {
     flex: 1;
-    margin-top: 64px;
     padding: 16px;
+    padding-top: 80px;
     min-width: 400px;
     box-sizing: border-box;
     background-color: #fff;
+    border-radius: 8px;
   }
 
   .lock-icon {

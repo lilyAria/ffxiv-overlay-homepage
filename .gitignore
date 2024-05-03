@@ -26,5 +26,4 @@ dist-ssr
 # 自动导入element-plus的文件
 auto-imports.d.ts
 components.d.ts
-yarn.lock
 .vscode
